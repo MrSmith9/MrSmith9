@@ -10,6 +10,10 @@
 ###
 
 <table>
+    <tr>
+    <th><a href="#user-account">User Account</a></th>
+    <td><img src="https://dcbadge.limes.pink/api/shield/264697144273797131" alt="" /></td>
+  </tr>
   <tr>
     <th><a href="#server-invite">Server Invite</a></th>
     <td><a target="_blank" href="https://discord.com/invite/4mFdXQH8Ax"><img src="https://dcbadge.limes.pink/api/server/4mFdXQH8Ax" alt="" /></a></td>
