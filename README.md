@@ -1,12 +1,19 @@
-## Hi there 👋
+<p align="left">Hello, My name is Kyle Smith.<br><br>I love to learn more about codes thing. but my fan is 3d printer to make printer.cfg today (28/05/2024) been take down to most of models. But i am only keep ender 6 and change to private repository. ( Reason is no one has support for this for long time. So i have to take it down.)</p>
 
-Hello, My name is Kyle Smith.
+###
 
-I love to learn more about codes thing. but my fan is 3d printer to make printer.cfg today (28/05/2024) been take down to most of models. But i am only keep ender 6 and change to private repository. ( Reason is no one has support for this for long time. So i have to take it down.)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrSmith9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSmith9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-# Join our discord: 
-https://discord.com/invite/4mFdXQH8Ax
+###
 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
-# Ender 6
-![alt text](https://cdn.discordapp.com/attachments/1228774470177652837/1228774511122321501/Screenshot_2024-04-13_192842.png?ex=665622f0&is=6654d170&hm=f6dceb92d9f07c85ce058cd2d40eafca1a8261fba483c3e0912f0d0873aaf85d&)
+###
