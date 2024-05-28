@@ -9,8 +9,11 @@
 
 ###
 
-<div align="left">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="https://discord.com/invite/4mFdXQH8Ax"  />
-</div>
+<table>
+  <tr>
+    <th><a href="#server-invite">Server Invite</a></th>
+    <td><a target="_blank" href="https://discord.com/invite/4mFdXQH8Ax"><img src="https://dcbadge.limes.pink/api/server/4mFdXQH8Ax" alt="" /></a></td>
+  </tr>
+</table>
 
 ###
